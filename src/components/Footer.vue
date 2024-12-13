@@ -235,6 +235,10 @@ onUnmounted(() => {
     border: 1px solid rgba(255, 255, 255, 1);
     border-radius: 3px;
     margin-bottom: 26px;
+
+    &:hover {
+      border: 1px solid rgb(136, 136, 136);
+    }
   }
 
   &__bottom {
