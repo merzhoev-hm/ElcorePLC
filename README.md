@@ -1,4 +1,6 @@
-# .
+# Ссылка на деплой
+
+https://jolly-blancmange-553d4e.netlify.app/
 
 This template should help get you started developing with Vue 3 in Vite.
 
